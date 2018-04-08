@@ -1,5 +1,5 @@
 import React from 'react';
-import SketchIcon from './Images/sketchIcon.svg';
+import SketchIcon from './Images/SketchIcon.svg';
 import PsIcon from './Images/PsIcon.svg';
 import AiIcon from './Images/AiIcon.svg';
 import CssIcon from './Images/CssIcon.svg';
