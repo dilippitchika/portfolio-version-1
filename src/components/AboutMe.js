@@ -15,8 +15,8 @@ const AboutMe = ()=>(
             </div>
             <div className='ContentLinksContainer'>
                     <div className = 'ContentRow'>
-                        <div className = 'ContentCell'><Link to='https://medium.com/@Dilippitchika/match-your-math-scientific-calculator-app-design-89e808d6cc75' style={{color:'#1D1C1C'}}>Match your math : Scientific Calculator app design</Link> </div>
-                        <div className = 'ContentCell'><Link to='https://blog.prototypr.io/collaboration-for-compassion-heres-how-sports-made-me-a-better-designer-ecb73d03697d' style={{color:'#1D1C1C'}}>Collaboration for compassion, here’s how sports made me a better designer</Link></div>
+                        <div className = 'ContentCell'><a href='https://medium.com/@Dilippitchika/match-your-math-scientific-calculator-app-design-89e808d6cc75' style={{color:'#1D1C1C'}}>Match your math : Scientific Calculator app design</a> </div>
+                        <div className = 'ContentCell'><a href='https://blog.prototypr.io/collaboration-for-compassion-heres-how-sports-made-me-a-better-designer-ecb73d03697d' style={{color:'#1D1C1C'}}>Collaboration for compassion, here’s how sports made me a better designer</a></div>
                     </div>
             </div>
         </div>
