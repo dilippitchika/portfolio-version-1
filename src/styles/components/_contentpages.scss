@@ -1,0 +1,147 @@
+.contentImage{
+    max-width: 100%; 
+    display:block; 
+    height: auto;
+}
+
+.contentIntro{
+    display: flex;
+    max-width: 70%;
+    margin: 0 auto;
+    padding: $xl-size 0;
+    // .introBg{
+
+    // }
+}
+.backLink{
+    text-align: center;
+    padding-bottom: $l-size;
+}
+.homeLink{
+    // margin: 0 auto;
+    padding-top: 10rem;
+    max-width: 50%;
+    padding-left:15rem;
+    font-weight: lighter;
+}
+.contentHeading{
+    font-size:$l-size;
+    font-weight:bold;
+    padding-left:15rem;
+    padding-right:15rem;
+    padding-top:$l-size;
+    padding-bottom: 10rem;
+    max-width: 50%;
+}
+.introBg{
+    margin: auto 0;
+}
+.introText{
+    padding-right: $xl-size;
+    // margin-top: $l-size;
+    // margin-bottom: $xl-size;
+    padding: $l-size;
+    padding-left: $l-size;
+    padding-top:$l-size;
+    // background-color:#C4DCFF;
+}
+
+.headingText{
+    font-weight: bold;
+    font-size:2.4rem;
+}
+
+.bgOnb1{
+    background-color: #FFAB00;
+}
+
+.bgOnb2{
+    background-color: #F3FFFE;
+}
+
+.onBContentText{
+    margin: auto 0;
+    flex-basis: 30%;
+    padding-right: $m-size;
+}
+
+.textCardContainer{
+    display: flex;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: $xl-size;
+}
+
+.textCardContainerpath{
+    display: flex;
+    max-width: 70%;
+    margin: 0 auto;
+    padding-bottom: $xl-size;
+}
+
+.onBImage{
+    padding-top: $xl-size ;
+    max-width: 100%; 
+    display:block; 
+    height: auto;
+}
+.conclusionpara{
+    padding:$xl-size 0;
+}
+.textCardContainerOnB{
+    display: flex;
+    max-width: 80%;
+    margin: 0 auto;
+    padding-bottom: $xl-size;
+    justify-content: space-between;
+}
+
+.conclusionText{
+    text-align: center;
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top: $l-size;
+    padding-bottom: $m-size;
+}
+
+.centerCardContainer{
+    margin: 0 auto;
+    max-width: 50%;
+    padding:$xl-size $m-size;
+}
+
+
+@media screen and (max-width: 750px){
+    .introImage{
+        display: none;
+    };
+    .contentIntro{
+        max-width: 90%;
+    }
+    .textCardContainer{
+        display: block;
+        max-width: 90%;
+    }
+    .contentHeading{
+        padding: $xl-size $m-size;
+        max-width: 100%;
+    }
+    .homeLink{
+        padding: $xl-size 0 0 $m-size;
+    }
+    .centerCardContainer{
+        max-width: 90%;
+    }
+    .textCardContainerOnB{
+        display: block;
+        max-width: 90%;
+    }
+    .onBContentText{
+        padding-top: $l-size;
+    }
+    .textCardContainerpath{
+        display: block;
+        max-width: 90%;
+    }
+};
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="52px" viewBox="0 0 48 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>sketchIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-534.000000, -257.000000)">
+        <g id="Group-5" transform="translate(534.000000, 257.000000)">
+            <g id="sketchIcon">
+                <g id="Group-Copy-3">
+                    <rect id="Rectangle-Copy" fill="#0D0C0C" x="0" y="4" width="48" height="48" rx="8"></rect>
+                    <rect id="Rectangle" fill="#232323" x="0" y="0" width="48" height="48" rx="8"></rect>
+                    <g id="Sketch_logo_frame" transform="translate(12.000000, 15.000000)" fill-rule="nonzero">
+                        <g id="Base" fill="#FFAE00">
+                            <polygon id="Polygon" transform="translate(12.000000, 10.858300) rotate(-180.000000) translate(-12.000000, -10.858300) " points="12 -2.84217094e-14 24 13.9433198 18.8016194 20.9878543 12 21.7165992 5.19838057 20.9878543 2.84217094e-14 13.9433198"></polygon>
+                        </g>
+                        <g id="Bottom-Back" transform="translate(0.000000, 7.773279)" fill="#EC6C00">
+                            <polygon id="Polygon" transform="translate(12.000000, 6.971660) rotate(-180.000000) translate(-12.000000, -6.971660) " points="12 -2.84217094e-14 24 13.9433198 2.84217094e-14 13.9433198"></polygon>
+                        </g>
+                        <g id="Bottom-Mid" transform="translate(4.858300, 7.773279)" fill="#FFAE00">
+                            <polygon id="Polygon" transform="translate(7.141700, 6.971660) rotate(-180.000000) translate(-7.141700, -6.971660) " points="7.1417004 -2.84217094e-14 14.2834008 13.9433198 2.84217094e-14 13.9433198"></polygon>
+                        </g>
+                        <g id="Top-Mid" transform="translate(4.858300, 0.000000)" fill="#FFEFB4">
+                            <polygon id="Polygon" transform="translate(7.141700, 3.886640) rotate(-180.000000) translate(-7.141700, -3.886640) " points="7.1417004 7.77327935 14.2834008 1.20202543e-13 0 -1.42108547e-14"></polygon>
+                        </g>
+                        <g id="Top-Side-Left" transform="translate(0.000000, 0.728745)" fill="#FFAE00">
+                            <polygon id="Polygon" transform="translate(2.599190, 3.522267) rotate(-180.000000) translate(-2.599190, -3.522267) " points="7.10542736e-15 7.04453441 2.67206478 3.49797571 5.19838057 1.29796309e-13 0.291497976 0"></polygon>
+                        </g>
+                        <g id="Top-Side-Right" transform="translate(21.400810, 4.251012) scale(-1, 1) translate(-21.400810, -4.251012) translate(18.801619, 0.728745)" fill="#FFAE00">
+                            <polygon id="Polygon" transform="translate(2.599190, 3.522267) rotate(-180.000000) translate(-2.599190, -3.522267) " points="7.10542736e-15 7.04453441 2.67206478 3.49797571 5.19838057 1.29796309e-13 0.291497976 0"></polygon>
+                        </g>
+                        <g id="Top-Left" transform="translate(4.858300, 0.000000)" fill="#FED305">
+                            <polygon id="Polygon" transform="translate(3.570850, 3.886640) rotate(-180.000000) translate(-3.570850, -3.886640) " points="6.80161943 7.04453441 7.1417004 -1.42108547e-14 1.42108547e-14 7.77327935"></polygon>
+                        </g>
+                        <g id="Top-Right" transform="translate(12.000000, 0.000000)" fill="#FED305">
+                            <polygon id="Polygon" transform="translate(3.570850, 3.886640) scale(-1, 1) rotate(-180.000000) translate(-3.570850, -3.886640) " points="6.80161943 7.04453441 7.1417004 -1.42108547e-14 -1.42108547e-14 7.77327935"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

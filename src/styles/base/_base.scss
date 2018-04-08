@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700');
+
+html{
+         font-size: 62.5%;
+}
+
+
+body    {
+    font-family: 'Muli', sans-serif;
+    font-size: $m-size;
+    // color: #3B3939;
+    letter-spacing: 0.1rem;
+};
+
+button{
+    cursor: pointer;
+}
+
+button:disabled{
+    cursor: default
+}
+

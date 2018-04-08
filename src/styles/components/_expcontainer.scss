@@ -1,0 +1,123 @@
+.BlueBgContainer{
+    background-color: #0C0E24;
+}
+.ContainerExperience{
+    
+    padding: $l-size;
+    color: white;
+    letter-spacing: 0.1rem;
+    
+};
+.footerbox{
+    padding: $l-size;
+    margin: 0 auto;
+    a{
+        color: black;
+    }
+    div{
+        padding-bottom: $l-size;
+        padding-right: $l-size;
+    }
+};
+
+.footerbg{
+    background-color: #FFB842;
+};
+
+.ContainerExperienceAbout{
+    
+    padding: $l-size;
+    color: #1D1C1C;
+    .quote{
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+};
+.ExpDetails2{
+    padding-bottom: $m-size;
+    // font-weight: bold;
+    padding-top:$l-size;
+}
+
+.ExpText{
+    color:white;
+    font-size: 2rem;
+    padding-bottom: $l-size;
+    padding-top:$l-size;
+    letter-spacing: 0.1rem;
+    
+};
+.AboutHead{
+    font-size: 2rem;
+    padding-bottom: $l-size;
+    padding-top:$xl-size;
+    letter-spacing: 0.1rem;
+    
+};
+.CompanyDetails{
+    color: #F5A623;
+    font-weight: 100;
+    padding-bottom: $m-size;
+    .CompanyName{
+        padding-bottom: 0.4rem;
+    }
+    .CompanyHeadline{
+        font-size:1.4rem;
+    }
+};
+
+.ExpDetails{
+    padding-bottom: $xl-size;
+    .ExpName{
+        padding-bottom: 0.4rem;
+    }
+    .Duration{
+        font-size: 1.4rem;
+    }
+}
+
+.ContentCell{
+    font-size:2rem;
+    padding-bottom: $l-size;
+    color: white;
+}
+
+.AboutMebg{
+    background-color: #FFB842;
+}
+
+@media screen and (min-width: 750px) {
+    .ContainerExperience{
+        max-width: 60%;
+        margin: 0 auto;
+    }
+    .ContainerExperienceAbout{
+        max-width: 56%;
+        margin: 0 auto;
+        padding-right: 8rem;
+    }
+    .ContentRow {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: space-between;
+    //   padding: 0 $xl-size;
+    };
+    .footerbox{
+        max-width: 60%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: $m-size;
+    }
+    .ContentCell {
+        width: calc(50% - 6rem);
+        padding-right: $m-size;
+    };
+};
+
+.whitecolor{
+    color: white;
+}

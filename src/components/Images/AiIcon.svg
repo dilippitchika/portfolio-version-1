@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="52px" viewBox="0 0 48 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>AiIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-702.000000, -257.000000)">
+        <g id="Group-5" transform="translate(534.000000, 257.000000)">
+            <g id="Group-2" transform="translate(64.000000, 0.000000)">
+                <g id="AiIcon" transform="translate(104.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-3" fill="#B67307" x="0" y="4" width="48" height="48" rx="8"></rect>
+                    <rect id="Rectangle" fill="#EB970F" x="0" y="0" width="48" height="48" rx="8"></rect>
+                    <text id="Ai" font-family="Muli-Bold, Muli" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="16.412" y="30">Ai</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
